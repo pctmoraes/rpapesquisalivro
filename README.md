@@ -9,4 +9,4 @@ Foi utilizado o UiPath Studio, Internet Explorer e Excel.
 ## Linguagens de programação
 VB.
 
-![Alt Text](https://github.com/pctmoraes/rpapesquisalivro/raw/master/path/to/imgpesquisalivro.png)
+![Screenshot da planilha](https://user-images.githubusercontent.com/52020762/66247542-12016200-e6f4-11e9-9350-1935ae3948de.PNG)
